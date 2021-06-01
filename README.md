@@ -36,3 +36,4 @@ GUI Designing : QT Designer (5.6.0)
 Coding : Pycharm (2020.3.5)
 Database : MySQL
 
+"Switch branch to master if u want to see code."
